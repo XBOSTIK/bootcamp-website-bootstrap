@@ -1,0 +1,88 @@
+.promo {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3cpath d='M211.32 269.43L384.53 369.43L384.53 569.43L211.32 669.43L38.11 569.43L38.11 369.43zM38.11 569.43L211.32 669.43L211.32 869.43L38.11 969.43L-135.1 869.43L-135.1 669.43zM211.32 869.43L384.53 969.43L384.53 1169.43L211.32 1269.43L38.11 1169.43L38.11 969.43zM384.53 569.43L557.74 669.43L557.74 869.43L384.53 969.43L211.32 869.43L211.32 669.43zM384.53 1169.43L557.74 1269.43L557.74 1469.43L384.53 1569.43L211.32 1469.43L211.32 1269.43zM904.16 269.43L1077.37 369.43L1077.37 569.43L904.16 669.43L730.95 569.43L730.95 369.43zM730.95 569.43L904.16 669.43L904.16 869.43L730.95 969.43L557.74 869.43L557.74 669.43zM730.95 1169.43L904.16 1269.43L904.16 1469.43L730.95 1569.43L557.74 1469.43L557.74 1269.43zM1077.37 -30.57L1250.58 69.43L1250.58 269.43L1077.37 369.43L904.16 269.43L904.16 69.43zM1423.79 -30.57L1597 69.43L1597 269.43L1423.79 369.43L1250.58 269.43L1250.58 69.43zM1423.79 569.43L1597 669.43L1597 869.43L1423.79 969.43L1250.58 869.43L1250.58 669.43zM1770.21 -30.57L1943.42 69.43L1943.42 269.43L1770.21 369.43L1597 269.43L1597 69.43zM1943.42 869.43L2116.63 969.43L2116.63 1169.43L1943.42 1269.43L1770.21 1169.43L1770.21 969.43zM1770.21 1169.43L1943.42 1269.43L1943.42 1469.43L1770.21 1569.43L1597 1469.43L1597 1269.43z' stroke='rgba(255%2c 255%2c 255%2c 0.07)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.learn {
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+}
+
+.learn-react {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='700' preserveAspectRatio='none' viewBox='0 0 1920 700'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1004%26quot%3b)' fill='none'%3e%3cpath d='M207.58 182.79L343.55 261.29L343.55 418.29L207.58 496.79L71.61 418.29L71.61 261.29zM71.61 418.29L207.58 496.79L207.58 653.79L71.61 732.29L-64.36 653.79L-64.36 496.79zM207.58 653.79L343.55 732.29L343.55 889.29L207.58 967.79L71.61 889.29L71.61 732.29zM343.55 -52.71L479.52 25.79L479.52 182.79L343.55 261.29L207.58 182.79L207.58 25.79zM343.55 418.29L479.52 496.79L479.52 653.79L343.55 732.29L207.58 653.79L207.58 496.79zM479.52 653.79L615.49 732.29L615.49 889.29L479.52 967.79L343.55 889.29L343.55 732.29zM615.49 -52.71L751.46 25.79L751.46 182.79L615.49 261.29L479.52 182.79L479.52 25.79zM615.49 418.29L751.46 496.79L751.46 653.79L615.49 732.29L479.52 653.79L479.52 496.79zM1023.4 653.79L1159.37 732.29L1159.37 889.29L1023.4 967.79L887.43 889.29L887.43 732.29zM1159.37 -52.71L1295.34 25.79L1295.34 182.79L1159.37 261.29L1023.4 182.79L1023.4 25.79zM1295.34 182.79L1431.31 261.29L1431.31 418.29L1295.34 496.79L1159.37 418.29L1159.37 261.29zM1159.37 418.29L1295.34 496.79L1295.34 653.79L1159.37 732.29L1023.4 653.79L1023.4 496.79zM1295.34 653.79L1431.31 732.29L1431.31 889.29L1295.34 967.79L1159.37 889.29L1159.37 732.29zM1567.28 182.79L1703.25 261.29L1703.25 418.29L1567.28 496.79L1431.31 418.29L1431.31 261.29zM1567.28 653.79L1703.25 732.29L1703.25 889.29L1567.28 967.79L1431.31 889.29L1431.31 732.29zM1839.22 653.79L1975.19 732.29L1975.19 889.29L1839.22 967.79L1703.25 889.29L1703.25 732.29zM1975.19 -52.71L2111.16 25.79L2111.16 182.79L1975.19 261.29L1839.22 182.79L1839.22 25.79zM2111.16 182.79L2247.13 261.29L2247.13 418.29L2111.16 496.79L1975.19 418.29L1975.19 261.29zM1975.19 418.29L2111.16 496.79L2111.16 653.79L1975.19 732.29L1839.22 653.79L1839.22 496.79z' stroke='rgba(255%2c 255%2c 255%2c 0.07)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1004'%3e%3crect width='1920' height='700' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.card-effect {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 25px;
+  transition: all 0.35s ease;
+  border-radius: 6px;
+}
+
+.card-effect:hover {
+  box-shadow: none;
+  transform: translateY((5px));
+}
+
+.team-member.card-effect:hover {
+  box-shadow: none;
+  color: #fff;
+  background-color: transparent;
+  transform: translateY((5px));
+}
+
+.card-effect-dark {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.512);
+  background-color: #212529;
+  padding: 50px 30px;
+  transition: all 0.35s ease;
+  border-radius: 6px;
+}
+
+.card-effect-dark:hover {
+  box-shadow: none;
+  background-color: #fff;
+  color: #212529;
+  transform: translateY((5px));
+}
+
+/* team */
+.team {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='600' preserveAspectRatio='none' viewBox='0 0 1920 600'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1024%26quot%3b)' fill='none'%3e%3cpath d='M485.24 -105.29L644.59 -13.29L644.59 170.71L485.24 262.71L325.88 170.71L325.88 -13.29zM963.3 170.71L1122.65 262.71L1122.65 446.71L963.3 538.71L803.94 446.71L803.94 262.71zM1600.71 170.71L1760.06 262.71L1760.06 446.71L1600.71 538.71L1441.36 446.71L1441.36 262.71zM1441.36 446.71L1600.71 538.71L1600.71 722.71L1441.36 814.71L1282 722.71L1282 538.71zM1919.42 170.71L2078.77 262.71L2078.77 446.71L1919.42 538.71L1760.06 446.71L1760.06 262.71zM1760.06 446.71L1919.42 538.71L1919.42 722.71L1760.06 814.71L1600.71 722.71L1600.71 538.71zM2078.77 446.71L2238.12 538.71L2238.12 722.71L2078.77 814.71L1919.42 722.71L1919.42 538.71z' stroke='rgba(255%2c 255%2c 255%2c 0.07)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1024'%3e%3crect width='1920' height='600' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+.team-member img {
+  width: 125px;
+  height: 125px;
+  border-radius: 100px;
+}
+
+.team-member i {
+  font-size: 24px;
+  color: #0d6efd !important;
+}
+
+.pricing i {
+  font-size: 20px;
+  color: #0d6efd;
+}
+
+.pricing ul li {
+  margin-top: 8px;
+}
+.map {
+  height: 400px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+}
+@media (max-width: 992px) {
+  .container {
+    max-width: 100%;
+    padding: 0 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
